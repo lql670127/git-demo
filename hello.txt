@@ -20,3 +20,4 @@ hello git! hello liuqingling! master test!!
 hello git! hello liuqingling! hot-fix test!!
 hello git! hello liuqingling! ssh test!!
 哈哈哈哈哈哈哈哈   我是花门
+测试gitee强制更新！
